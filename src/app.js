@@ -1,7 +1,6 @@
 import express from "express";
 import mongoose from "mongoose";
 import newwRouter from "./neww"
-import authorRouter from "./author";
 
 //новий екземпляр додатку 
 const app = express();
